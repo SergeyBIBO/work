@@ -23,3 +23,4 @@ create table svedenia (
 		god_zachislen bigserial not null,
 	primary key (id)
 	);
+sfd
