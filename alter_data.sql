@@ -4,3 +4,4 @@ alter table student add constraint FK_STUDENT_FACULT foreign key (id) references
 alter table student add constraint FK_STUDENT_FACULT1 foreign key (id) references svedenia;
 
 
+sfd
